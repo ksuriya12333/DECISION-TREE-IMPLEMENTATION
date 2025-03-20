@@ -191,5 +191,8 @@ These tasks cover various areas of machine learning and data science:
 
 Each task applies fundamental machine learning and deep learning techniques that are useful in real-world applications like customer review analysis, automated classification, and personalized content recommendations.
 
+# OUTPUTS
+https://github.com/ksuriya12333/DECISION-TREE-IMPLEMENTATION/issues/1#issue-2935220643
+
 ##
 
