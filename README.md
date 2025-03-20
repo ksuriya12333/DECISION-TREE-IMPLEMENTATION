@@ -1,5 +1,7 @@
-# DECISION-TREE-IMPLEMENTATION
-
+# DECISION-TREE-IMPLEMENTATION-TASK1
+# SENTIMENT ANALYSIS WITH NLP-TASK2
+# IMAGE CLASSIFICATION MODEL-TASK3
+# RECOMMENDATION SYSTEM-TASK4
 *COMPANY*: CODTECH IT SOLUTIONS
 
 *NAME*: KONDAKAMARLA SURIYA
@@ -14,7 +16,7 @@
 
 *DESCRIPTION*
 ##
-Task 1: Decision Tree Classifier (CodTech_IT_Task1.ipynb)
+# Task 1: Decision Tree Classifier (CodTech_IT_Task1.ipynb)
 This task involves training a Decision Tree Classifier, a machine-learning model used to classify data based on given features. The Iris dataset is used, which contains information about three types of flowers: Setosa, Versicolor, and Virginica. Each flower is described using four features:
 
 Sepal length
@@ -56,7 +58,7 @@ The Decision Tree is plotted to show how the model makes decisions.
 
 This helps in understanding which features play an important role in classification.
 
-Task 2: Sentiment Analysis using Logistic Regression (CodTech_IT_Task2.ipynb)
+# Task 2: Sentiment Analysis using Logistic Regression (CodTech_IT_Task2.ipynb)
 This task is about analyzing customer reviews to determine whether they are positive or negative using Logistic Regression. Sentiment analysis is widely used in applications like product reviews, movie reviews, and customer feedback analysis.
 
 Steps in the Notebook:
@@ -90,7 +92,7 @@ Visualizing the Results
 
 A heatmap is plotted to visualize the confusion matrix, making it easier to understand the model's performance.
 
-Task 3: Image Classification using CNN (CodeIT_Tech_Task_3.ipynb)
+# Task 3: Image Classification using CNN (CodeIT_Tech_Task_3.ipynb)
 This task focuses on image classification using Convolutional Neural Networks (CNNs). CNNs are widely used for image processing tasks such as face recognition, medical imaging, and self-driving cars.
 
 Steps in the Notebook:
@@ -126,7 +128,7 @@ The trained model is tested on unseen images to measure its accuracy.
 
 Predictions are made on test images, and their actual and predicted labels are compared.
 
-Task 4: Movie Recommendation System using SVD (Cod_Tech_IT_task_4.ipynb)
+# Task 4: Movie Recommendation System using SVD (Cod_Tech_IT_task_4.ipynb)
 This task involves building a movie recommendation system using Singular Value Decomposition (SVD), a popular technique in collaborative filtering-based recommendation systems. Netflix, Amazon, and YouTube use similar approaches to suggest content to users.
 
 Steps in the Notebook:
@@ -179,13 +181,13 @@ These metrics help measure how accurate the recommendations are.
 Conclusion
 These tasks cover various areas of machine learning and data science:
 
-Task 1 teaches how to use Decision Trees for classification.
+# Task 1 teaches how to use Decision Trees for classification.
 
-Task 2 focuses on sentiment analysis using text classification.
+# Task 2 focuses on sentiment analysis using text classification.
 
-Task 3 explores image classification using deep learning (CNNs).
+# Task 3 explores image classification using deep learning (CNNs).
 
-Task 4 demonstrates recommendation systems for personalized suggestions.
+# Task 4 demonstrates recommendation systems for personalized suggestions.
 
 Each task applies fundamental machine learning and deep learning techniques that are useful in real-world applications like customer review analysis, automated classification, and personalized content recommendations.
 
